@@ -1,3 +1,2 @@
 
 jdk7
-thuan
